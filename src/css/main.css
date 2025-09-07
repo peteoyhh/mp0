@@ -1,1 +1,36 @@
 /* Your CSS here. */
+
+body {
+    margin: 0;
+    background-color:white;
+
+    display: flex;  
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+
+  }
+  
+
+  
+  .pro_image {
+    margin-top: 50px;
+
+    width: 150px;
+    height: 150px;
+  }
+
+   .introduction {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    width: 800px;   
+    height: 750px;     
+    text-align: center;
+    background-color:#b9cfa5;
+
+
+
+
+  }
